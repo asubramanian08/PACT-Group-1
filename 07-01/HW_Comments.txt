@@ -1,0 +1,2 @@
+3: Letters can be duplicated. Like we can have Abbcdab0 if we want.
+7: Steps not shown

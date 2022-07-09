@@ -1,0 +1,6 @@
+3e: Correct - see solution
+5: Partially Correct - You are overcounting by a significant factor since you did not remove the chocolate from the total after assigning it to the friend.
+9: Correct - This appears correct; you may also check the alternate proof in the official solution.
+10: Correct - Good job.
+11: Incorrect - Almost there! Don't forget that a set {a, b} is equivalent to a set {b, a}. Because of this, you count each of {1, 2}, {1, 5}, and {2, 5} twice.
+16: Correct - Lacking Justification

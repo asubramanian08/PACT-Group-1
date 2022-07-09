@@ -1,0 +1,2 @@
+7: Incorrect - There is only 1 way to not have any vent on. The problem states at least 1 vent has to be open not more than 1 vent.
+9: Incorrect
